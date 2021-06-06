@@ -1,0 +1,24 @@
+{
+  "name": "date-timely",
+  "version": "1.0.0",
+  "description": "It Is The Package Which Can Be Used To Print The Date Format In A Prettier Format. It Allows Various Other Formats Such As To Display The Date In UTC Format Or In Local Date Format. Also It Allows To Show The Time Zone Or Also Show The Milliseconds In It.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "datetime",
+    "date",
+    "time",
+    "utc",
+    "iso",
+    "timezone",
+    "javascript",
+    "zone",
+    "timestamp",
+    "web"
+  ],
+  "author": "Aryan Garg",
+  "license": "ISC"
+}
